@@ -1,0 +1,29 @@
+Program: Robot Peanut Butter and Jelly Sandwich
+
+1. Robot, function (inventory ingredients);
+	• at least two slices of bread
+	• at least one table spoon of strawberry jelly or jam
+	• at least one table spoon of peanut butter
+2. Robot, function (clean kitchen supplies);
+	• at least one clean butter knife
+	• at least one clean plate or one paper plate
+3. Robot, run function (make a p&j sandwich);
+	• gather (inventory ingredients) + (clean kitchen supplies) onto the kitchen counter;
+		a. place two slices of bread onto plate
+		b. remove the (peanut butter) jar lid
+			• scoop a tablespoon of peanut butter out with the butter knife
+			• spread peanut butter onto slice of bread
+		c. repeat "b" (substitue peanut butter with jelly) jar lid
+4. Robot, but slices of bread together with peanut butter and jelly facing each other
+5. Place bread/sandwich on plate
+6. Cut sandwich in half
+7. Take sandwich to Debbie
+8. End program
+
+
+
+		
+		
+				
+			
+
